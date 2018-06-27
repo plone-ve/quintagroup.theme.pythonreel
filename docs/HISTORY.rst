@@ -1,6 +1,10 @@
 Changelog
 =========
 
+1.5.6 (unreleased)
+
+- Updated the Diazo manifest file [macagua]
+
 1.5.5 November 09, 2016
 
 - Add identificator to theme
